@@ -1,0 +1,34 @@
+body {
+    background: #9b2a92;
+    background: radial-gradient(circle,rgba(155, 42, 146, 1) 0%, rgba(83, 101, 237, 1) 100%);
+    height: 100vh;
+    font-family: "Inter", sans-serif;
+}
+h1{
+    color: red;
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+main{
+    display: flex;
+    justify-content: center;   
+    flex-direction: column;
+    align-items: center;
+    
+}
+.nav-links{
+    margin: auto 0;
+}
+#high-priority{
+    color: red
+}
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    left: 0%;
+    text-align: center;
+}
