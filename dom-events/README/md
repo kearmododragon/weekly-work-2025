@@ -1,0 +1,8 @@
+## DOM EVENTS
+Dom events are occurences in the browser that occur automatically and can be triggered by a user. i.e. animations, screensize change etc.
+
+### DOM EVENTS 
+element.addEventListener(<event-name>, <callback>);
+- **event-name** is the name of the event (string)
+- **callback** is the function we want executed when the event happens. When called by the JS engine, it will be passed an *event object* as an argument.
+
