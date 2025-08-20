@@ -1,0 +1,69 @@
+html {
+    height: 100%;
+    width: 100%;
+} 
+
+*{
+  /* height & width now includes border & padding */
+  box-sizing: border-box;
+ /* css debugging tool to see all elements */  border: 1px solid red;
+  /* determins how a height and width  will be calculated with the box model */
+
+  /* box model in css
+  - how the size is calculated
+    - margin
+    - border
+    - padding wraps out content in negative/white space
+    - content ->
+        - determined by the font-size, line-height
+        - the dimentions of a picture
+        - the container and child elements
+    */
+}
+body {
+  margin: 0;
+  font-family: Helvetica;
+
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+  grid-template-rows: 50px 1fr 30px;
+  gap: 5px;
+}
+
+nav {
+    display: flex;
+    height: 50px;
+    background-color: #a2cbb6;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+nav > div {
+font-size: 20px;
+margin: 10px;
+color: #f3dba8;
+}
+nav > div:last-child {
+  margin-left: auto;
+}
+aside {
+  background-color: #a2b4da;
+}
+
+main {
+  background-color: #f3dba8;
+}
+
+footer {
+  background-color: #a2cbb6;
+}
+.flex-ctr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav, footer {
+  grid-column: 1 / 3;
+}
