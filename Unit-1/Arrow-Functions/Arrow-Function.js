@@ -1,8 +1,12 @@
+//Arrow-functions replace the need for normal functions unless for 'this' cases. must be written top down
+
 /* function hellowWorld(str) {
     return `Hellow ${str}`
 }
 
 console.log (hellowWorld("World")) */
+
+
 /* x => { ... }  // one parameter
 () => { ... }  // no parameters
 (x, y) => { ... }  // two or more parameters */

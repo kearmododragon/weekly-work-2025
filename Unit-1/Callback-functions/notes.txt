@@ -1,0 +1,25 @@
+- Identify When a Function is a Callback Function
+    callback function is an argument passed to another function
+    The higherOrder function is responsible for calling the callback
+    Design of callbacks is to allow a controlled / situation call after other proceses run (i.e. click)
+    
+- Use Anonymous & Named Functions as Callbacks
+    -- see main.js    
+
+- Use Callbacks with Array Iterator Methods
+        -- see main.js    
+
+- Why callbacks 
+    - callbacks may be required for the function of our browser tools
+    - 
+
+- Use the  Array Iterator Method to "filter" an Array
+        -- see main.js    
+
+- Use Callbacks with Asynchronous Operations
+    - synchronous - sequential -> top to bottom order it is written
+        the length of time required is dependant on the code written, 2 triggers when 1 is complete
+    - Asychronous all coding runs at the same time. 
+
+
+
