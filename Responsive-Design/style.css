@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+  margin: 0;
+  font-family: Helvetica;
+  display: grid;
+  /* mobile first - single column */
+  grid-template-columns: 1fr;
+  grid-template-rows: 50px 30px auto 100px;
+  grid-template-areas:
+    "hdr"
+    "ftr"
+    "content"
+    "side";
+}
+
+header {
+  grid-area: hdr;
+  background-color: #ff9e7a;
+}
+
+footer {
+  grid-area: ftr;
+  background-color: #b1fcc8;
+}
+
+aside {
+  grid-area: side;
+  background-color: #ffe07a;
+}
+
+main {
+  grid-area: content;
+  background-color: #bf9df7;
+}
+
+header, footer, aside, main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
