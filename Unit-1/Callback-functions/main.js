@@ -66,3 +66,28 @@ const mileageCheck = function(car){
 }
 const wellDrivenCars = cars.filter(mileageCheck)
 console.log(wellDrivenCars)
+
+
+// const colors = ['red', 'green', 'blue'];
+
+// console.log('Code BEFORE the forEach...');
+
+// colors.forEach(function(color, idx) {
+//   console.log(`${idx + 1} - ${color}`);
+// });
+
+// console.log('Code AFTER the forEach...');
+
+
+const colors = ['red', 'green', 'blue'];
+
+console.log('Code BEFORE the forEach...');
+
+// setTimeout accepts a callback & how long to wait before calling the cb
+setTimeout(function() {
+  colors.forEach(function(color, idx) {
+    console.log(`${idx + 1} - ${color}`);
+  });
+}, 10000);  // 1000 milliseconds (1 sec)
+
+console.log('Code AFTER the forEach...');
