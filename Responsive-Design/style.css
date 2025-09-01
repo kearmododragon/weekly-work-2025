@@ -42,3 +42,39 @@ header, footer, aside, main {
   justify-content: center;
   align-items: center;
 }
+
+/* @media is the keyword necessary to indicate we are working with media queries */
+/* only screen: the only keyword is used to prevent older browsers that do not support media queries with media filters from applying the specified styled. */
+@media only screen and (min-width: 768px) {
+    /* media query will only kick in when the witdh is under 768px */
+  body {
+    /* tablet - two column display */
+    grid-template-columns: 1fr 4fr;
+    grid-template-rows: 50px auto 30px;
+    grid-template-areas:
+      "hdr hdr"
+      "side content"
+      "ftr ftr";
+  }
+}
+
+/* Base CSS */
+* {
+  color: red;
+}
+
+
+
+/* Tablet Device CSS */
+@media (min-width: 768px) {
+  * {
+    color: blue;
+  }
+}
+
+/* Desktop Device CSS */
+@media (min-width: 1024px) {
+  * {
+    color: green;
+  }
+}
