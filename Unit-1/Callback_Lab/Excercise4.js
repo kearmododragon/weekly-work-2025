@@ -13,6 +13,14 @@ function log(elem, idx) {
   console.log(`Index: ${idx} / Element Value: ${elem}`);
 }
 
+function forEach(colors, callback) {
+  for (let i = 0; i < colors.length; i++) {
+    callback(colors[i], i); // call the callback with element and index
+  }
+}
+forEach(colors, log);
+
+
 // calling forEach(colors, log) should resulting in this output:
 // Index: 0 / Element Value: red
 // Index: 1 / Element Value: green
