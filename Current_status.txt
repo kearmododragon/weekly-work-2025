@@ -1,8 +1,12 @@
 Completed Week 2 March 1. 
 
-However, March 2 "This" has been completed and definitely looked at JS Classes at work.
+Cleared up the confusion.
 
-Tomorrow at work, pull request to see if weekly work is up to date and if there's any overhang here. Potentially repeated a lesson but no harm in that. 
+"This" and "JS Classes" completed to my knowledge. Must double check. 
+
+JS Classes in seperate repo as OOP_Lesson_Starter, can be pulled and checked. 
+
+Otherwise, everything up to date and going well. 
 
 JS Classes folder created regardless and ready to go. So either continue JS Classes or we move onto FE Activity - Styling Forms if not. 
 
