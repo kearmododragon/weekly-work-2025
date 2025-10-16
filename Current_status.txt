@@ -1,7 +1,7 @@
-Completed Week 2 March 2.
+Completed Week 2 March 3, FE Activity.
 
-Currently working on: FE Activity - Styling Forms
+Currently working on: Intro to Testing
 
-Try and finish 1 or 2 days per actual day. Apply for a job after. 
+Follow the video, starts at 30 mins. focus' on testing, so assume push/pull/branching.
 
 WE'll get there. I know it.
