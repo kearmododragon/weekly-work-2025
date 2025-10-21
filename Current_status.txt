@@ -1,7 +1,10 @@
-Completed Week 2 March 3, FE Activity.
+Completed Week 2 March 3, unit-testing
 
-Currently working on: Intro to Testing
+Currently working on: Unit Testing Intro
+https://urldefense.com/v3/__https://generalassembly.zoom.us/rec/share/Fa4FCWe3UxvbRHgzjUz1iBoUbP_WAu-hozUUHuxO_wSFNqBhH6h1bKqOS1uboXsZ.wF-UcSszutkpSFm___;!!GgcXpDZ2N9l6uyZJ!ipZgcCyF5kR-emMJmtaTDIyQikLu4AY2At8f04Xcz1nu8VYVmt8B6X1O3grWLDiQdh05e1QMafcV90LYZYLuzsEx3QQ$
 
-Follow the video, starts at 30 mins. focus' on testing, so assume push/pull/branching.
+.EJau3Uw
+
+Follow the video, starts at 2 hours. 
 
 WE'll get there. I know it.
