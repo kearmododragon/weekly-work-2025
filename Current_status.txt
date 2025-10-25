@@ -1,10 +1,45 @@
-Completed Week 2 March 3, unit-testing
+Completed Week 2 March 3, lab
 
-Currently working on: Unit Testing Intro
-https://urldefense.com/v3/__https://generalassembly.zoom.us/rec/share/Fa4FCWe3UxvbRHgzjUz1iBoUbP_WAu-hozUUHuxO_wSFNqBhH6h1bKqOS1uboXsZ.wF-UcSszutkpSFm___;!!GgcXpDZ2N9l6uyZJ!ipZgcCyF5kR-emMJmtaTDIyQikLu4AY2At8f04Xcz1nu8VYVmt8B6X1O3grWLDiQdh05e1QMafcV90LYZYLuzsEx3QQ$
+Currently working on: connect 4 code along. Not Started
+Complete the code along and then start planning the project.
 
-.EJau3Uw
+Also planning for the project. Intention is going to be to do most/all of them. 
+Start from the beggining and have fun with it.
 
-Follow the video, starts at 2 hours. 
+Do this for every option and see how many we end up making.
+- plan the design 
+- set out the essentials to make it MVP and the ice box'
+- code them one by one. Focus on backend first then front 
+
+1. Tamagotchi
+    - A good icebox feature (optional feature) is to allow the creatures to ‘level’ up after a certain amount of interactions / time.
+    - May include interaction animations or asset changes.
+2. Trivia Game 
+3. **Spaceman - variant on “hangman”**
+    - Will require keyboard event listeners
+    - A good icebox feature (optional feature) is to allow the player to choose from categories of words.
+4. **Concentration (Memory Game)**
+    - Use "cards" or other theme
+    - Will need to display "wrong" guess until a timer expires or until the next click.
+    - Must lose after a certain amount of time or after X number of bad guesses.
+5. **Simon**
+    - Requires asynchronous interactions and [Audio playback](https://www.notion.so/Playing-Audio-in-the-Browser-e46e114dc9f0437a8ef3a69a1a5e9fe0?pvs=21)
+6. **Mastermind** (Guess the Code)
+7. **Minesweeper**
+    - Must implement "flood" feature
+8. **Blackjack**
+    - Must implement wagering feature
+    - Do not have to implement splitting hands
+9. **Slot Machine**
+    - Must implement wagering feature
+    - Must implement css animation for slot rollers
+10. **Checkers**
+    - No AI required - player vs. player is fine
+11. **Video Poker**
+    - Must implement wagering feature
+12. **Solitaire**
+13. **Battleship**
+    - Requires some AI to implement the computer opponent
+ 
 
 WE'll get there. I know it.
