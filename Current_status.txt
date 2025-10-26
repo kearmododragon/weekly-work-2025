@@ -1,4 +1,9 @@
 Completed Week 2 March 3, lab
+Currently doing: Week 2 March 6. 
+Connect 4 code along. 
+
+1 hour into the video.
+
 Always push from the leading folder (weekly_work, lab_hw etc). Keep projects seperate so they can be pushed seperately.
 
 Currently working on: connect 4 code along. Not Started
