@@ -1,4 +1,5 @@
 Completed Week 2 March 3, lab
+Always push from the leading folder (weekly_work, lab_hw etc). Keep projects seperate so they can be pushed seperately.
 
 Currently working on: connect 4 code along. Not Started
 Complete the code along and then start planning the project.
