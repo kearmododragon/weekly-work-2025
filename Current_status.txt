@@ -1,51 +1,37 @@
-Completed Week 2 March 3, lab
-Currently doing: Week 2 March 6. 
-Connect 4 code along. 
+Completed Week 2 March 6, Connect 4 Code Along Intro + Walkthroughs
+Currently doing: Week 2 March 8 Bootstrap Intro (Week 3)
++ Projects.
 
-1 hour into the video.
+Between 8 & 10th it's just going over the projects and such. 
 
-Always push from the leading folder (weekly_work, lab_hw etc). Keep projects seperate so they can be pushed seperately.
-
-Currently working on: connect 4 code along. Not Started
-Complete the code along and then start planning the project.
-
-Also planning for the project. Intention is going to be to do most/all of them. 
-Start from the beggining and have fun with it.
-
-Do this for every option and see how many we end up making.
-- plan the design 
-- set out the essentials to make it MVP and the ice box'
-- code them one by one. Focus on backend first then front 
-
+The focus now is completing the projects in order. 
 1. Tamagotchi
-    - A good icebox feature (optional feature) is to allow the creatures to ‘level’ up after a certain amount of interactions / time.
-    - May include interaction animations or asset changes.
 2. Trivia Game 
 3. **Spaceman - variant on “hangman”**
-    - Will require keyboard event listeners
-    - A good icebox feature (optional feature) is to allow the player to choose from categories of words.
 4. **Concentration (Memory Game)**
-    - Use "cards" or other theme
-    - Will need to display "wrong" guess until a timer expires or until the next click.
-    - Must lose after a certain amount of time or after X number of bad guesses.
 5. **Simon**
-    - Requires asynchronous interactions and [Audio playback](https://www.notion.so/Playing-Audio-in-the-Browser-e46e114dc9f0437a8ef3a69a1a5e9fe0?pvs=21)
 6. **Mastermind** (Guess the Code)
 7. **Minesweeper**
-    - Must implement "flood" feature
 8. **Blackjack**
-    - Must implement wagering feature
-    - Do not have to implement splitting hands
 9. **Slot Machine**
-    - Must implement wagering feature
-    - Must implement css animation for slot rollers
 10. **Checkers**
-    - No AI required - player vs. player is fine
 11. **Video Poker**
-    - Must implement wagering feature
 12. **Solitaire**
 13. **Battleship**
-    - Requires some AI to implement the computer opponent
- 
+
+Each one needs to be project planned correctly as per the instructions. If can't see them elsewhere it's explained on the current video at the start. 
+Also, refer back to OG project for what the readme looked like and replicate. 
+
+I think it'll work best if we MVP Tamagotchi then move on to Trivia etc. This way we keep going over the same bits. 
+Any code that I notice wll help for another (i.e deck building, shuffling) copy and paste into the appropriate projects. 
+We do not move beyond the end of the weeks learning without completing these. 
+Comprehensively completed the unit's work and have access and time. No excuses for not going through this. 
+Try to rely on chat GPT as little as possible even for the small things. Work on being independant. Last time Owain helped,this time we're better than that.
+
+
+
+Always push from the leading folder (weekly_work, lab_hw etc) except for the projects themselves. Keep projects seperate so they can be pushed seperately.
+
+Currently working on: Bootstrap & Tamagotchi 
 
 WE'll get there. I know it.
